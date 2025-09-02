@@ -1,3 +1,15 @@
+// variable declaration
+let age = 20;
+let nigerian = false;
+
+// conditional statements
+if (age >= 18 && nigerian) {
+    console.log("You are eligible to vote");
+}
+else {
+    console.log("You are not eligible to vote");
+};
+
 
 
 let heading = document.getElementById("intro");
